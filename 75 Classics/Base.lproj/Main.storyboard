@@ -353,30 +353,16 @@
                                     <segue destination="3sL-Mh-7Ze" kind="unwind" unwindAction="popToTitle:" id="nJf-7G-iwj"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" alpha="0.59999999999999998" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ui_circle" translatesAutoresizingMaskIntoConstraints="NO" id="rmK-Jz-GR6">
-                                <rect key="frame" x="276" y="567" width="18" height="18"/>
-                            </imageView>
-                            <imageView userInteractionEnabled="NO" alpha="0.29999999999999999" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ui_circle" translatesAutoresizingMaskIntoConstraints="NO" id="q76-Xl-PQ1">
-                                <rect key="frame" x="306" y="567" width="18" height="18"/>
-                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.75919047100000003" green="0.36265086829999998" blue="0.56578947369999999" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="KQO-LT-7bP" firstAttribute="height" secondItem="pka-bw-oRg" secondAttribute="height" id="0ap-Vp-ex9"/>
                             <constraint firstAttribute="leadingMargin" secondItem="1JK-87-fCt" secondAttribute="leading" id="5lQ-lP-EF9"/>
-                            <constraint firstItem="q76-Xl-PQ1" firstAttribute="height" secondItem="rmK-Jz-GR6" secondAttribute="height" id="FtI-UF-Ojg"/>
                             <constraint firstItem="4tT-us-ajo" firstAttribute="centerX" secondItem="pka-bw-oRg" secondAttribute="centerX" id="Hhw-Au-Gjj"/>
-                            <constraint firstItem="rmK-Jz-GR6" firstAttribute="height" secondItem="pka-bw-oRg" secondAttribute="height" multiplier="0.03" id="IcA-Ww-Fwh"/>
-                            <constraint firstItem="rmK-Jz-GR6" firstAttribute="centerY" secondItem="pka-bw-oRg" secondAttribute="centerY" multiplier="1.92" id="OAE-yt-jKl"/>
-                            <constraint firstItem="rmK-Jz-GR6" firstAttribute="centerX" secondItem="pka-bw-oRg" secondAttribute="centerX" multiplier="0.95" id="Ox6-Wf-cRv"/>
                             <constraint firstItem="4tT-us-ajo" firstAttribute="height" secondItem="pka-bw-oRg" secondAttribute="height" id="Q75-wW-484"/>
                             <constraint firstItem="KQO-LT-7bP" firstAttribute="centerY" secondItem="pka-bw-oRg" secondAttribute="centerY" id="TNo-Ob-2B5"/>
                             <constraint firstItem="1JK-87-fCt" firstAttribute="width" secondItem="pka-bw-oRg" secondAttribute="width" multiplier="0.15" id="Tpc-5M-cua"/>
-                            <constraint firstItem="rmK-Jz-GR6" firstAttribute="width" secondItem="pka-bw-oRg" secondAttribute="width" multiplier="0.03" id="Wqb-Le-rWk"/>
-                            <constraint firstItem="q76-Xl-PQ1" firstAttribute="width" secondItem="rmK-Jz-GR6" secondAttribute="width" id="XTH-4S-Vp3"/>
                             <constraint firstItem="4tT-us-ajo" firstAttribute="centerY" secondItem="pka-bw-oRg" secondAttribute="centerY" id="c06-uR-OBv"/>
-                            <constraint firstItem="q76-Xl-PQ1" firstAttribute="centerX" secondItem="pka-bw-oRg" secondAttribute="centerX" multiplier="1.05" id="hEJ-VY-KQl"/>
-                            <constraint firstItem="q76-Xl-PQ1" firstAttribute="centerY" secondItem="rmK-Jz-GR6" secondAttribute="centerY" id="hXo-uG-Bh5"/>
                             <constraint firstItem="4tT-us-ajo" firstAttribute="width" secondItem="pka-bw-oRg" secondAttribute="width" id="lip-Bj-amI"/>
                             <constraint firstItem="1JK-87-fCt" firstAttribute="top" secondItem="03f-p0-glU" secondAttribute="bottom" id="mv9-LR-umb"/>
                             <constraint firstItem="1JK-87-fCt" firstAttribute="height" secondItem="pka-bw-oRg" secondAttribute="height" multiplier="0.07" id="oH2-f7-Bs0"/>
@@ -390,8 +376,6 @@
                         <outlet property="descLabel" destination="Dur-5f-vPg" id="YD5-wB-c3y"/>
                         <outlet property="descView" destination="4tT-us-ajo" id="Hbm-qd-gih"/>
                         <outlet property="infoView" destination="KQO-LT-7bP" id="8yB-Rq-2cS"/>
-                        <outlet property="pageIndicator1" destination="rmK-Jz-GR6" id="Hwa-F7-5Jc"/>
-                        <outlet property="pageIndicator2" destination="q76-Xl-PQ1" id="dNq-cc-Rev"/>
                         <outlet property="statusLabel" destination="0hQ-bj-y21" id="wii-OV-bcf"/>
                         <outlet property="titleLabel" destination="qyE-Ee-WgV" id="Oat-Gw-vCH"/>
                         <outlet property="yearLabel" destination="1QY-AE-Kqo" id="Ai2-3D-DdU"/>
@@ -438,15 +422,26 @@
                                     <segue destination="iv7-CS-ZoF" kind="embed" id="LAp-N5-kHN"/>
                                 </connections>
                             </containerView>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="ZRh-qO-Kmj">
+                                <rect key="frame" x="270" y="549" width="60" height="42"/>
+                            </pageControl>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="vZ4-5J-asK" firstAttribute="centerX" secondItem="QkL-Te-tEw" secondAttribute="centerX" id="16m-Vl-EGn"/>
                             <constraint firstItem="vZ4-5J-asK" firstAttribute="height" secondItem="QkL-Te-tEw" secondAttribute="height" id="1RA-Rs-jjT"/>
                             <constraint firstItem="vZ4-5J-asK" firstAttribute="width" secondItem="QkL-Te-tEw" secondAttribute="width" id="2vs-EL-LtE"/>
+                            <constraint firstItem="ZRh-qO-Kmj" firstAttribute="width" secondItem="QkL-Te-tEw" secondAttribute="width" multiplier="0.1" id="6tA-5J-naS"/>
+                            <constraint firstItem="ZRh-qO-Kmj" firstAttribute="height" secondItem="QkL-Te-tEw" secondAttribute="height" multiplier="0.07" id="FEb-EN-ZBg"/>
+                            <constraint firstItem="ZRh-qO-Kmj" firstAttribute="centerX" secondItem="QkL-Te-tEw" secondAttribute="centerX" id="Q7N-3j-DCB"/>
                             <constraint firstItem="vZ4-5J-asK" firstAttribute="centerY" secondItem="QkL-Te-tEw" secondAttribute="centerY" id="Rgm-PK-tml"/>
+                            <constraint firstItem="ZRh-qO-Kmj" firstAttribute="centerY" secondItem="QkL-Te-tEw" secondAttribute="centerY" multiplier="1.9" id="tYW-og-DYd"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="containerView" destination="vZ4-5J-asK" id="XSo-i5-8pI"/>
+                        <outlet property="pageControl" destination="ZRh-qO-Kmj" id="qJO-w3-yp2"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vCl-CD-HmV" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -463,6 +458,5 @@
     </scenes>
     <resources>
         <image name="01" width="510" height="680"/>
-        <image name="ui_circle" width="420" height="420"/>
     </resources>
 </document>
