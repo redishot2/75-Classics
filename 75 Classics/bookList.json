@@ -1,0 +1,461 @@
+{
+    "books": [
+          {
+              "title": "A Tree Grows in Brooklyn",
+              "author": "Betty Smith",
+              "year_published": 1940,
+              "desc": "The beloved American classic about a young girl's coming-of-age at the turn of the century, Betty Smith's A Tree Grows in Brooklyn is a poignant and moving tale filled with compassion and cruelty, laughter and heartache, crowded with life and people and incident. The story of young, sensitive, and idealistic Francie Nolan and her bittersweet formative years in the slums of Williamsburg has enchanted and inspired millions of readers for more than sixty years. By turns overwhelming, sublime, heartbreaking, and uplifting, the daily experiences of the unforgettable Nolans are raw with honesty and tenderly threaded with family connectedness -- in a work of literary art that brilliantly captures a unique time and place as well as incredibly rich moments of universal experience."
+          },
+          {
+              "title": "Brideshead Revisited",
+              "author": "Evelyn Waugh",
+              "year_published": 1940,
+              "desc": "The most nostalgic and reflective of Evelyn Waugh's novels, Brideshead Revisited looks back to the golden age before the Second World War. It tells the story of Charles Ryder's infatuation with the Marchmains and the rapidly-disappearing world of privilege they inhabit. Enchanted first by Sebastian at Oxford, then by his doomed Catholic family, in particular his remote sister, Julia, Charles comes finally to recognize only his spiritual and social distance from them."
+          },
+          {
+              "title": "The Hero with a Thousand Faces",
+              "author": "Joseph Campbell",
+              "year_published": 1949,
+              "desc": "The first popular work to combine the spiritual and psychological insights of modern psychoanalysis with the archetypes of world mythology, the book creates a roadmap for navigating the frustrating path of contemporary life. Examining heroic myths in the light of modern psychology, it considers not only the patterns and stages of mythology but also its relevance to our lives today--and to the life of any person seeking a fully realized existence.\n\nMyth, according to Campbell, is the projection of a culture's dreams onto a large screen; Campbell's book, like Star Wars, the film it helped inspire, is an exploration of the big-picture moments from the stage that is our world. It is a must-have resource for both experienced students of mythology and the explorer just beginning to approach myth as a source of knowledge."
+          },
+          {
+              "title": "All the King's Men",
+              "author": "Robert Penn Warren",
+              "year_published": 1940,
+              "desc": "More than just a classic political novel, Warren’s tale of power and corruption in the Depression-era South is a sustained meditation on the unforeseen consequences of every human act, the vexing connectedness of all people and the possibility—it’s not much of one—of goodness in a sinful world. Willie Stark, Warren’s lightly disguised version of Huey Long, the onetime Louisiana strongman/governor, begins as a genuine tribune of the people and ends as a murderous populist demagogue. Jack Burden is his press agent, who carries out the boss’s orders, first without objection, then in the face of his own increasingly troubled conscience. And the politics? For Warren, that’s simply the arena most likely to prove that man is a fallen creature. Which it does."
+          },
+          
+          {
+              "title": "The End of the Affair",
+              "author": "Graham Greene",
+              "year_published": 1950,
+              "desc": "'A story has no beginning or end: arbitrarily one chooses a moment of experience from which to look ahead...'\n\n'This is a record of hate far more than of love,' writes Maurice Bendrix in the opening passages of The End of the Affair, and it is a strange hate indeed that compels him to set down the retrospective account of his adulterous affair with Sarah Miles.\n\nNow, a year after Sarah's death, Bendrix seeks to exorcise the persistence of his passion by retracing its course from obsessive love to love-hate. At first, he believes he hates Sarah and her husband, Henry. Yet as he delves further into his emotional outlook, Bendrix's hatred shifts to the God he feels has broken his life, but whose existence at last comes to recognize."
+          },
+          {
+              "title": "Foundation",
+              "author": "Isaac Asimov",
+              "year_published": 1950,
+              "desc": "For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future -- to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire -- both scientists and scholars -- and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.\n\nBut soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind's last best hope is faced with an agonizing choice: submit to the barbarians and be overrun -- or fight them and be destroyed."
+          },
+          {
+              "title": "Charlotte's Web",
+              "author": "E.B. White",
+              "year_published": 1950,
+              "desc": "This beloved book by E. B. White, author of Stuart Little and The Trumpet of the Swan, is a classic of children's literature that is 'just about perfect.'\n\nSome Pig. Humble. Radiant. These are the words in Charlotte's Web, high up in Zuckerman's barn. Charlotte's spiderweb tells of her feelings for a little pig named Wilbur, who simply wants a friend. They also express the love of a girl named Fern, who saved Wilbur's life when he was born the runt of his litter.\n\nE. B. White's Newbery Honor Book is a tender novel of friendship, love, life, and death that will continue to be enjoyed by generations to come. This edition contains color illustrations by Garth Williams, the acclaimed illustrator of E.B. White's Stuart Little and Laura Ingalls Wilder's Little House series, among many other books.\n\nSupports the Common Core State Standards"
+          },
+          {
+              "title": "Invisible Man",
+              "author": "Ralph Ellison",
+              "year_published": 1952,
+              "desc": "First published in 1952 and immediately hailed as a masterpiece, Invisible Man is one of those rare novels that have changed the shape of American literature. For not only does Ralph Ellison's nightmare journey across the racial divide tell unparalleled truths about the nature of bigotry and its effects on the minds of both victims and perpetrators, it gives us an entirely new model of what a novel can be.\n\nAs he journeys from the Deep South to the streets and basements of Harlem, from a horrifying 'battle royal' where black men are reduced to fighting animals, to a Communist rally where they are elevated to the status of trophies, Ralph Ellison's nameless protagonist ushers readers into a parallel universe that throws our own into harsh and even hilarious relief. Suspenseful and sardonic, narrated in a voice that takes in the symphonic range of the American language, black and white, Invisible Man is one of the most audacious and dazzling novels of our century."
+          },
+          {
+              "title": "The Old Man and the Sea",
+              "author": "Ernest Hemingway",
+              "year_published": 1950,
+              "desc": "It is the story of an old Cuban fisherman and his supreme ordeal: a relentless, agonizing battle with a giant marlin far out in the Gulf Stream. Using the simple, powerful language of a fable, Hemingway takes the timeless themes of courage in the face of defeat and personal triumph won from loss and transforms them into a magnificent twentieth-century classic."
+          },
+          {
+              "title": "Fahrenheit 451",
+              "author": "Ray Bradbury",
+              "year_published": 1950,
+              "desc": "The terrifyingly prophetic novel of a post-literate future.\n\nGuy Montag is a fireman. His job is to burn books, which are forbidden, being the source of all discord and unhappiness. Even so, Montag is unhappy; there is discord in his marriage. Are books hidden in his house? The Mechanical Hound of the Fire Department, armed with a lethal hypodermic, escorted by helicopters, is ready to track down those dissidents who defy society to preserve and read books.\n\nThe classic dystopian novel of a post-literate future, Fahrenheit 451 stands alongside Orwell’s 1984 and Huxley’s Brave New World as a prophetic account of Western civilization’s enslavement by the media, drugs and conformity.\n\nBradbury’s powerful and poetic prose combines with uncanny insight into the potential of technology to create a novel which, decades on from first publication, still has the power to dazzle and shock."
+          },
+          {
+              "title": "The Long Goodbye",
+              "author": "Raymond Chandler",
+              "year_published": 1950,
+              "desc": "Marlowe befriends a down on his luck war veteran with the scars to prove it. Then he finds out that Terry Lennox has a very wealthy nymphomaniac wife, who he's divorced and re-married and who ends up dead. and now Lennox is on the lam and the cops and a crazy gangster are after Marlowe.\n\nBook 6"
+          },
+          {
+              "title": "A Good Man is Hard to Find and Other Stories",
+              "author": "Flannery O'Connor",
+              "year_published": 1950,
+              "desc": "'A Good Man Is Hard to Find' is Flannery O'Connor's most famous and most discussed story. O'Connor herself singled it out by making it the title piece of her first collection and the story she most often chose for readings or talks to students. It is an unforgettable tale, both riveting and comic, of the confrontation of a family with violence and sudden death. More than anything else O'Connor ever wrote, this story mixes the comedy, violence, and religious concerns that characterize her fiction.\n\nThis now-classic book revealed Flannery O'Connor to be one of the most original and provocative writers to emerge from the South. Her apocalyptic vision of life is expressed through grotesque, often comic, situations in which the principal character faces a problem of salvation: the grandmother, in the title story, confronting the murderous Misfit; a neglected four-year-old boy looking for the Kingdom of Christ in the fast-flowing waters of the river; General Sash, about to meet the final enemy."
+          },
+          {
+              "title": "Lolita",
+              "author": "Vladimir Nabokov",
+              "year_published": 1950,
+              "desc": "Humbert Humbert - scholar, aesthete and romantic - has fallen completely and utterly in love with Lolita Haze, his landlady's gum-snapping, silky skinned twelve-year-old daughter. Reluctantly agreeing to marry Mrs Haze just to be close to Lolita, Humbert suffers greatly in the pursuit of romance; but when Lo herself starts looking for attention elsewhere, he will carry her off on a desperate cross-country misadventure, all in the name of Love. Hilarious, flamboyant, heart-breaking and full of ingenious word play, Lolita is an immaculate, unforgettable masterpiece of obsession, delusion and lust."
+          },
+          {
+              "title": "Giovanni's Room",
+              "author": "James Baldwin",
+              "year_published": 1950,
+              "desc": "Baldwin's haunting and controversial second novel is his most sustained treatment of sexuality, and a classic of gay literature. In a 1950s Paris swarming with expatriates and characterized by dangerous liaisons and hidden violence, an American finds himself unable to repress his impulses, despite his determination to live the conventional life he envisions for himself. After meeting and proposing to a young woman, he falls into a lengthy affair with an Italian bartender and is confounded and tortured by his sexual identity as he oscillates between the two.\n\nExamining the mystery of love and passion in an intensely imagined narrative, Baldwin creates a moving and complex story of death and desire that is revelatory in its insight."
+          },
+          {
+              "title": "The Civil War, Volumes 1-3",
+              "author": "Shelby Foote",
+              "year_published": 1950,
+              "desc": "A stunning literary and historical achievement, the three volumes of Shelby Foote's THE CIVIL WAR vividly bring to life the four years of torment and strife that altered American life forever. Presented in a handsome boxed set, these three beautifully bound hardcovers are an essential addition to every American history collection.\n\nTaking the reader from the drama of Jefferson Davis's resignation from the United States Senate and Abraham Lincoln's arrival in the nation's capital to Davis's final flight and capture and Lincoln's tragic death, Foote covers his subject with astonishing depth and scope. Every battle, every general, and every statesman has its place in this monumental narrative, told in lively prose that captures the sights, smells, and sounds of the conflict. Never before have the great battles and personalities of the Civil War been so excitingly presented, and never before has the story been told so completely.\n\nWith a novelist's gift for narrative and a historian's commitment to research, Shelby Foote's epic retelling is the definitive account of the Civil War, a trilogy that has earned a place of honor on the bookshelves of all Americans."
+          },
+          {
+              "title": "The Once and Future King",
+              "author": "T.H. White",
+              "year_published": 1950,
+              "desc": "Once upon a time, a young boy called “Wart” was tutored by a magician named Merlyn in preparation for a future he couldn’t possibly imagine. A future in which he would ally himself with the greatest knights, love a legendary queen and unite a country dedicated to chivalrous values. A future that would see him crowned and known for all time as Arthur, King of the Britons.\n\nDuring Arthur’s reign, the kingdom of Camelot was founded to cast enlightenment on the Dark Ages, while the knights of the Round Table embarked on many a noble quest. But Merlyn foresaw the treachery that awaited his liege: the forbidden love between Queen Guinevere and Lancelot, the wicked plots of Arthur’s half-sister Morgause, and the hatred she fostered in Mordred that would bring an end to the king’s dreams for Britain--and to the king himself.\n\nBooks 1-4"
+          },
+          {
+              "title": "Nine Stories",
+              "author": "J.D. Salinger",
+              "year_published": 1950,
+              "desc": "'A Perfect Day for Bananafish' (1948)\n'Uncle Wiggily in Connecticut' (1948)\n'Just Before the War with the Eskimos' (1948)\n'The Laughing Man' (1949)\n'Down at the Dinghy' (1949)\n'For Esmé – with Love and Squalor' (1950)\n'Pretty Mouth and Green My Eyes' (1951)\n'De Daumier-Smith's Blue Period' (1952)\n'Teddy' (1953)"
+          },
+          
+          {
+              "title": "Night",
+              "author": "Elie Wiesel",
+              "year_published": 1960,
+              "desc": "Night is a work by Elie Wiesel about his experience with his father in the Nazi German concentration camps at Auschwitz and Buchenwald in 1944–1945, at the height of the Holocaust and toward the end of the Second World War. In just over 100 pages of sparse and fragmented narrative, Wiesel writes about the death of God and his own increasing disgust with humanity, reflected in the inversion of the father–child relationship as his father declines to a helpless state and Wiesel becomes his resentful teenage caregiver.\n\nPenetrating and powerful, as personal as The Diary Of Anne Frank, Night awakens the shocking memory of evil at its absolute and carries with it the unforgettable message that this horror must never be allowed to happen again.\n\nBook 1"
+          },
+          {
+              "title": "The Rabbit Andstrom novels",
+              "author": "John Updike",
+              "year_published": 1960,
+              "desc": "n\a"
+          },
+          {
+              "title": "Mastering the Art of French Cooking",
+              "author": "Julia Child",
+              "year_published": 1960,
+              "desc": "n\a"
+          },
+          {
+              "title": "To Kill a Mockingbird",
+              "author": "Harper Lee",
+              "year_published": 1960,
+              "desc": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.\n\nCompassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior—to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature."
+          },
+          {
+              "title": "The Moviegoer",
+              "author": "Walker Percy",
+              "year_published": 1960,
+              "desc": "The dazzling novel that established Walker Percy as one of the major voices in Southern literature is now available for the first time in Vintage paperback.\n\nThe Moviegoer is Binx Bolling, a young New Orleans stockbroker who surveys the world with the detached gaze of a Bourbon Street dandy even as he yearns for a spiritual redemption he cannot bring himself to believe in. On the eve of his thirtieth birthday, he occupies himself dallying with his secretaries and going to movies, which provide him with the 'treasurable moments' absent from his real life. But one fateful Mardi Gras, Binx embarks on a hare-brained quest that outrages his family, endangers his fragile cousin Kate, and sends him reeling through the chaos of New Orleans' French Quarter. Wry and wrenching, rich in irony and romance, The Moviegoer is a genuine American classic."
+          },
+          {
+              "title": "The Bell Jar",
+              "author": "Sylvia Plath",
+              "year_published": 1960,
+              "desc": "Sylvia Plath's shocking, realistic, and intensely emotional novel about a woman falling into the grip of insanity.\n\nEsther Greenwood is brilliant, beautiful, enormously talented, and successful, but slowly going under—maybe for the last time. In her acclaimed and enduring masterwork, Sylvia Plath brilliantly draws the reader into Esther's breakdown with such intensity that her insanity becomes palpably real, even rational—as accessible an experience as going to the movies. A deep penetration into the darkest and most harrowing corners of the human psyche, The Bell Jar is an extraordinary accomplishment and a haunting American classic."
+          },
+          {
+              "title": "One Flew Over the Cukoo's Nest",
+              "author": "Ken Kesey",
+              "year_published": 1960,
+              "desc": "In this classic of the 1960s, Ken Kesey's hero is Randle Patrick McMurphy, a boisterous, brawling, fun-loving rebel who swaggers into the world of a mental hospital and takes over. A lusty, life-affirming fighter, McMurphy rallies the other patients around him by challenging the dictatorship of Nurse Ratched. He promotes gambling in the ward, smuggles in wine and women, and openly defies the rules at every turn. But this defiance, which starts as a sport, soon develops into a grim struggle, an all-out war between two relentless opponents: Nurse Ratched, back by the full power of authority, and McMurphy, who has only his own indomitable will. What happens when Nurse Ratched uses her ultimate weapon against McMurphy provides the story's shocking climax."
+          },
+          {
+              "title": "Silent Spring",
+              "author": "Rachel Carson",
+              "year_published": 1960,
+              "desc": "Rachel Carson’s Silent Spring was first published in three serialized excerpts in the New Yorker in June of 1962. The book appeared in September of that year and the outcry that followed its publication forced the banning of DDT and spurred revolutionary changes in the laws affecting our air, land, and water. Carson’s passionate concern for the future of our planet reverberated powerfully throughout the world, and her eloquent book was instrumental in launching the environmental movement. It is without question one of the landmark books of the twentieth century."
+          },
+          {
+              "title": "The Structure of Scientific Revolutions",
+              "author": "Thomas S. Kuhn",
+              "year_published": 1960,
+              "desc": "'A landmark in intellectual history which has attracted attention far beyond its own immediate field. . . . It is written with a combination of depth and clarity that make it an almost unbroken series of aphorisms. . . . Kuhn does not permit truth to be a criterion of scientific theories, he would presumably not claim his own theory to be true. But if causing a revolution is the hallmark of a superior paradigm, [this book] has been a resounding success.' Nicholas Wade, Science\n\n'Perhaps the best explanation of [the] process of discovery.' William Erwin Thompson, New York Times Book Review\n\n'Occasionally there emerges a book which has an influence far beyond its originally intended audience. . . . Thomas Kuhn's The Structure of Scientific Revolutions . . . has clearly emerged as just such a work.' Ron Johnston, Times Higher Education Supplement\n\n'Among the most influential academic books in this century.' Choice\n\nOne of 'The Hundred Most Influential Books Since the Second World War,' Times Literary Supplement"
+          },
+          {
+              "title": "A Winkle in Time",
+              "author": "Madeleine L'Engle",
+              "year_published": 1960,
+              "desc": "It was a dark and stormy night; Meg Murry, her small brother Charles Wallace, and her mother had come down to the kitchen for a midnight snack when they were upset by the arrival of a most disturbing stranger.\n\n'Wild nights are my glory,' the unearthly stranger told them. 'I just got caught in a downdraft and blown off course. Let me be on my way. Speaking of way, by the way, there is such a thing as a tesseract'.\n\nMeg's father had been experimenting with this fifth dimension of time travel when he mysteriously disappeared. Now the time has come for Meg, her friend Calvin, and Charles Wallace to rescue him. But can they outwit the forces of evil they will encounter on their heart-stopping journey through space?"
+          },
+          {
+              "title": "The Guns of August",
+              "author": "Barbara W. Tuchman",
+              "year_published": 1960,
+              "desc": "The Pulitzer Prize-winning classic about the outbreak of World War I\n\nHistorian & Pulitzer Prize-winning author Barbara Tuchman has brought to life again the people and events that led up to WWI. With attention to fascinating detail, and an intense knowledge of her subject and its characters, she reveals just how the war started, why, and why it could have been stopped but wasn't. A classic historical survey of a time and a people we all need to know more about, THE GUNS OF AUGUST will not be forgotten."
+          },
+          {
+              "title": "Where the Wild Things Are",
+              "author": "Maurice Sendak",
+              "year_published": 1960,
+              "desc": "One night Max puts on his wolf suit and makes mischief of one kind and another, so his mother calls him 'Wild Thing' and sends him to bed without his supper. That night a forest begins to grow in Max's room and an ocean rushes by with a boat to take Max to the place where the wild things are. Max tames the wild things and crowns himself as their king, and then the wild rumpus begins. But when Max has sent the monsters to bed, and everything is quiet, he starts to feel lonely and realises it is time to sail home to the place where someone loves him best of all."
+          },
+          {
+              "title": "The Autobiography of Malcom X",
+              "author": "Ray Shepard",
+              "year_published": 1960,
+              "desc": "This is the story of a man who lived several distinct chapters of a great American life. From petty criminal to defiant race rights fighter to leader of the Black Muslim movement, his life story is provocative and engrossing."
+          },
+          {
+              "title": "In Cold Blood",
+              "author": "Truman Capote",
+              "year_published": 1960,
+              "desc": "On November 15, 1959, in the small town of Holcomb, Kansas, four members of the Clutter family were savagely murdered by blasts from a shotgun held a few inches from their faces. There was no apparent motive for the crime, and there were almost no clues.\n\nAs Truman Capote reconstructs the murder and the investigation that led to the capture, trial, and execution of the killers, he generates both mesmerizing suspense and astonishing empathy. In Cold Blood is a work that transcends its moment, yielding poignant insights into the nature of American violence. "
+          },
+          {
+              "title": "The Double Helix",
+              "author": "James D. Watson",
+              "year_published": 1960,
+              "desc": "By identifying the structure of DNA, the molecule of life, Francis Crick and James Watson revolutionized biochemistry & won themselves a Nobel Prize. At the time, Watson was only 24, a young scientist hungry to make his mark. His uncompromisingly honest account of the heady days of their thrilling sprint against other world-class researchers to solve one of science's greatest mysteries gives a dazzlingly clear picture of a world of brilliant scientists with great gifts, very human ambitions & bitter rivalries. With humility unspoiled by false modesty, Watson relates his & Crick's desperate efforts to beat Linus Pauling to the Holy Grail of life sciences, the identification of the basic building block of life. Never has a scientist been so truthful in capturing in words the flavor of his work."
+          },
+          {
+              "title": "Slaughterhouse-Five",
+              "author": "Kurt Vonnegut",
+              "year_published": 1960,
+              "desc": "Kurt Vonnegut's absurdist classic Slaughterhouse-Five introduces us to Billy Pilgrim, a man who becomes unstuck in time after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonnegut's) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.\n\nDon't let the ease of reading fool you - Vonnegut's isn't a conventional, or simple, novel. He writes, 'There are almost no characters in this story, and almost no dramatic confrontations, because most of the people in it are so sick, and so much the listless playthings of enormous forces. One of the main effects of war, after all, is that people are discouraged from being characters.'\n\nSlaughterhouse-Five is not only Vonnegut's most powerful book, it is also as important as any written since 1945. Like Catch- 22, it fashions the author's experiences in the Second World War into an eloquent and deeply funny plea against butchery in the service of authority. Slaughterhouse-Five boasts the same imagination, humanity, and gleeful appreciation of the absurd found in Vonnegut's other works, but the book's basis in rock-hard, tragic fact gives it a unique poignancy - and humor."
+          },
+          
+          {
+              "title": "Bury My Heart At Wounded Knee",
+              "author": "Dee Brown",
+              "year_published": 1970,
+              "desc": "Bury My Heart at Wounded Knee is Dee Brown's eloquent, fully documented account of the systematic destruction of the American Indian during the second half of the nineteenth century. A national bestseller in hardcover for more than a year after its initial publication, it has sold almost four million copies and has been translated into seventeen languages. For this elegant thirtieth-anniversary edition -- published in both hardcover and paperback -- Brown has contributed an incisive new preface.\n\nUsing council records, autobiographies, and firsthand descriptions, Brown allows the great chiefs and warriors of the Dakota, Ute, Sioux, Cheyenne, and other tribes to tell us in their own words of the battles, massacres, and broken treaties that finally left them demoralized and defeated. A unique and disturbing narrative told with force and clarity, Bury My Heart at Wounded Knee changed forever our vision of how the West was really won."
+          },
+          {
+              "title": "Burr",
+              "author": "Gore Vidal",
+              "year_published": 1970,
+              "desc": "Gore Vidal's Narratives of Empire series spans the history of the United States from the Revolution to the post-World War II years. With their broad canvas and large cast of fictional and historical characters, the novels in this series present a panorama of the American political and imperial experience as interpreted by one of its most worldly, knowing, and ironic observers.\n\nBurr is a portrait of perhaps the most complex and misunderstood of the Founding Fathers. In 1804, while serving as vice president, Aaron Burr fought a duel with his political nemesis, Alexander Hamilton, and killed him. In 1807, he was arrested, tried, and acquitted of treason. In 1833, Burr is newly married, an aging statesman considered a monster by many. Burr retains much of his political influence if not the respect of all. And he is determined to tell his own story. As his amanuensis, he chooses Charles Schermerhorn Schuyler, a young New York City journalist, and together they explore both Burr's past and the continuing political intrigues of the still young United States."
+          },
+          {
+              "title": "Song of Solomon",
+              "author": "Toni Morrison",
+              "year_published": 1970,
+              "desc": "Milkman Dead was born shortly after a neighborhood eccentric hurled himself off a rooftop in a vain attempt at flight. For the rest of his life he, too, will be trying to fly. With this brilliantly imagined novel, Toni Morrison transfigures the coming-of-age story as audaciously as Saul Bellow or Gabriel García Márquez. As she follows Milkman from his rustbelt city to the place of his family’s origins, Morrison introduces an entire cast of strivers and seeresses, liars and assassins, the inhabitants of a fully realized black world."
+          },
+          {
+              "title": "Suttree",
+              "author": "Cormac McCarthy",
+              "year_published": 1970,
+              "desc": "By the author of Blood Meridian and All the Pretty Horses, Suttree is the story of Cornelius Suttree, who has forsaken a life of privilege with his prominent family to live in a dilapidated houseboat on the Tennessee River near Knoxville.  Remaining on the margins of the outcast community there--a brilliantly imagined collection of eccentrics, criminals, and squatters--he rises above the physical and human squalor with detachment, humor, and dignity."
+          },
+          {
+              "title": "The Hitchhiker's Guide to the Galaxy",
+              "author": "Douglas Adams",
+              "year_published": 1970,
+              "desc": "Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.\n\nTogether this dynamic pair begin a journey through space aided by quotes from The Hitchhiker's Guide ('A towel is about the most massively useful thing an interstellar hitchhiker can have') and a galaxy-full of fellow travelers: Zaphod Beeblebrox--the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian, Zaphod's girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ballpoint pens he bought over the years."
+          },
+          
+          {
+              "title": "The Collected Stories of Eudora Welty",
+              "author": "Eudora Welty",
+              "year_published": 1980,
+              "desc": "Including the earlier collections A Curtain of Green, The Wide Net, The Golden Apples, and The Bride of the Innisfallen, as well as previously uncollected ones, these forty-one stories demonstrate Eudora Welty's talent for writing from diverse points-of-view with 'vision that is sweet by nature, always humanizing, uncannily objective, but never angry' (Washington Post)."
+          },
+          {
+              "title": "House Keeping",
+              "author": "Marilynne Robinson",
+              "year_published": 1980,
+              "desc": "A modern classic, Housekeeping is the story of Ruth and her younger sister, Lucille, who grow up haphazardly, first under the care of their competent grandmother, then of two comically bumbling great-aunts, and finally of Sylvie, their eccentric and remote aunt. The family house is in the small Far West town of Fingerbone set on a glacial lake, the same lake where their grandfather died in a spectacular train wreck, and their mother drove off a cliff to her death. It is a town 'chastened by an outsized landscape and extravagant weather, and chastened again by an awareness that the whole of human history had occurred elsewhere.' Ruth and Lucille's struggle toward adulthood beautifully illuminates the price of loss and survival, and the dangerous and deep undertow of transience."
+          },
+          {
+              "title": "Maus",
+              "author": "Art Spiegelman",
+              "year_published": 1980,
+              "desc": "Combined for the first time here are Maus I: A Survivor's Tale and Maus II - the complete story of Vladek Spiegelman and his wife, living and surviving in Hitler's Europe. By addressing the horror of the Holocaust through cartoons, the author captures the everyday reality of fear and is able to explore the guilt, relief and extraordinary sensation of survival - and how the children of survivors are in their own way affected by the trials of their parents. A contemporary classic of immeasurable significance."
+          },
+          {
+              "title": "A People's History of the United States",
+              "author": "Howard Zinn",
+              "year_published": 1980,
+              "desc": "Known for its lively, clear prose as well as its scholarly research, A People's History of the United States is the only volume to tell America's story from the point of view of - and in the words of - America's women, factory workers, African Americans, Native Americans, working poor, and immigrant laborers."
+          },
+          {
+              "title": "So Long, See You Tomorrow",
+              "author": "William Maxwell",
+              "year_published": 1980,
+              "desc": "On an Illinois farm in the 1920s, a man is murdered, and in the same moment the tenous friendship between two lonely boys comes to an end. In telling their interconnected stories, American Book Award winner William Maxwell delivers a masterfully restrained and magically evocative meditation on the past."
+          },
+          {
+              "title": "A Perfect Spy",
+              "author": "John le Carré",
+              "year_published": 1980,
+              "desc": "Magnus Pym -- son of Rick, father of Tom, and a successful career officer of British Intelligence -- has vanished, to the dismay of his friends, enemies, and wife. Who is he? Who was he? Who owns him? Who trained him? Secrets of state are at risk. As the truth about Pym gradually emerges, the reader joins Pym's pursuers to explore the unsettling life and motives of a man who fought the wars he inherited with the only weapons he knew, and so became a perfect spy."
+          },
+          
+          {
+              "title": "The Things They Carried",
+              "author": "Tim O'Brian",
+              "year_published": 1990,
+              "desc": "They carried malaria tablets, love letters, 28-pound mine detectors, dope, illustrated bibles, each other. And if they made it home alive, they carried unrelenting images of a nightmarish war that history is only beginning to absorb. Since its first publication, The Things They Carried has become an unparalleled Vietnam testament, a classic work of American literature, and a profound study of men at war that illuminates the capacity, and the limits, of the human heart and soul.\n\nThe Things They Carried depicts the men of Alpha Company: Jimmy Cross, Henry Dobbins, Rat Kiley, Mitchell Sanders, Norman Bowker, Kiowa, and the character Tim O’Brien, who has survived his tour in Vietnam to become a father and writer at the age of forty-three."
+          },
+          {
+              "title": "All Over but the Shoutin'",
+              "author": "Rick Bragg",
+              "year_published": 1990,
+              "desc": "This haunting, harrowing, gloriously moving recollection of a life on the American margin is the story of Rick Bragg, who grew up dirt-poor in northeastern Alabama, seemingly destined for either the cotton mills or the penitentiary, and instead became a Pulitzer Prize-winning reporter for The New York Times. It is the story of Bragg's father, a hard-drinking man with a murderous temper and the habit of running out on the people who needed him most.\n\nBut at the center of this soaring memoir is Bragg's mother, who went eighteen years without a new dress so that her sons could have school clothes and picked other people's cotton so that her children wouldn't have to live on welfare alone. Evoking these lives--and the country that shaped and nourished them--with artistry, honesty, and compassion, Rick Bragg brings home the love and suffering that lie at the heart of every family. The result is unforgettable."
+          },
+          {
+              "title": "The Secret History",
+              "author": "Donna Tartt",
+              "year_published": 1990,
+              "desc": "Under the influence of their charismatic classics professor, a group of clever, eccentric misfits at an elite New England college discover a way of thinking and living that is a world away from the humdrum existence of their contemporaries. But when they go beyond the boundaries of normal morality they slip gradually from obsession to corruption and betrayal, and at last - inexorably - into evil."
+          },
+          {
+              "title": "The Stone Diaries",
+              "author": "Carol Shields",
+              "year_published": 1990,
+              "desc": "The Stone Diaries is one ordinary woman's story of her journey through life. Born in 1905, Daisy Stone Goodwill drifts through the roles of child, wife, widow, and mother, and finally into her old age. Bewildered by her inability to understand her place in her own life, Daisy attempts to find a way to tell her story within a novel that is itself about the limitations of autobiography. Her life is vivid with incident, and yet she feels a sense of powerlessness. She listens, she observes, and through sheer force of imagination she becomes a witness of her own life: her birth, her death, and the troubling misconnections she discovers between. Daisy's struggle to find a place for herself in her own life is a paradigm of the unsettled decades of our era. A witty and compassionate anatomist of the human heart, Carol Shields has made distinctively her own that place where the domestic collides with the elemental. With irony and humor she weaves the strands of The Stone Diaries together in this, her richest and most poignant novel to date."
+          },
+          {
+              "title": "The Collected Memories",
+              "author": "Grace Paley",
+              "year_published": 1990,
+              "desc": "This reissue of Grace Paley's classic collection—a finalist for the National Book Award—demonstrates her rich use of language as well as her extraordinary insight into and compassion for her characters, moving from the hilarious to the tragic and back again. Whether writing about the love (and conflict) between parents and children or between husband and wife, or about the struggles of aging single mothers or disheartened political organizers to make sense of the world, she brings the same unerring ear for the rhythm of life as it is actually lived.\n\nThe Collected Stories is a 1994 National Book Award Finalist for Fiction."
+          },
+          {
+              "title": "Last Train to Memphis",
+              "author": "Peter Guralnick",
+              "year_published": 1990,
+              "desc": "Last Train to Memphis: The Rise of Elvis Presley is the first biography to go past that myth and present an Elvis beyond the legend. Based on hundreds of interviews and nearly a decade of research, it traces the evolution not just of the man but of the music and of the culture he left utterly transformed, creating a completely fresh portrait of Elvis and his world.\n\nThis volume tracks the first twenty-four years of Elvis' life, covering his childhood, the stunning first recordings at Sun Records ('That's All Right,' 'Mystery Train'), and the early RCA hits ('Heartbreak Hotel,' 'Hound Dog,' 'Don't Be Cruel'). These were the years of his improbable self-invention and unprecedented triumphs, when it seemed that everything that Elvis tried succeeded wildly. There was scarcely a cloud in sight through this period until, in 1958, he was drafted into the army and his mother died shortly thereafter. The book closes on that somber and poignant note."
+          },
+          {
+              "title": "The Color of Water",
+              "author": "James McBride",
+              "year_published": 1990,
+              "desc": "The Color of Water tells the remarkable story of Ruth McBride Jordan, the two good men she married, and the 12 good children she raised. Jordan, born Rachel Shilsky, a Polish Jew, immigrated to America soon after birth; as an adult she moved to New York City, leaving her family and faith behind in Virginia. Jordan met and married a black man, making her isolation even more profound. The book is a success story, a testament to one woman's true heart, solid values, and indomitable will. Ruth Jordan battled not only racism but also poverty to raise her children and, despite being sorely tested, never wavered. In telling her story--along with her son's--The Color of Water addresses racial identity with compassion, insight, and realism. It is, in a word, inspiring, and you will finish it with unalloyed admiration for a flawed but remarkable individual. And, perhaps, a little more faith in us all."
+          },
+          {
+              "title": "The Harry Potter novels",
+              "author": "J.K. Rowling",
+              "year_published": 1990,
+              "desc": "Harry Potter thinks he is an ordinary boy. He lives with his Uncle Vernon, Aunt Petunia and cousin Dudley, who are mean to him and make him sleep in a cupboard under the stairs. (Dudley, however, has two bedrooms, one to sleep in and one for all his toys and games.) Then Harry starts receiving mysterious letters and his life is changed forever. He is whisked away by a beetle-eyed giant of a man and enrolled at Hogwarts School of Witchcraft and Wizardry. The reason: Harry Potter is a wizard! The first book in the 'Harry Potter' series makes the perfect introduction to the world of Hogwarts."
+          },
+          {
+              "title": "American Pastoral",
+              "author": "Philip Roth",
+              "year_published": 1990,
+              "desc": "In American Pastoral, Philip Roth gives us a novel of unqualified greatness that is an elegy for all the twentieth century's promises of prosperity, civic order, and domestic bliss. Roth's protagonist is Seymour 'Swede' Levov - a legendary high school athlete, a devoted family man, a hard worker, the prosperous inheritor of his father's Newark glove factory - comes of age in thriving, triumphant post-war America. And then one day in 1968, Swede's beautiful American luck deserts him.\n\nFor Swede's adored daughter, Merry, has grown from a loving, quick-witted girl into a sullen, fanatical teenager - a teenager capable of an outlandishly savage act of political terrorism. And overnight Swede is wrenched out of the longed-for American pastoral and into the indigenous American berserk. Compulsively readable, propelled by sorrow, rage, and a deep compassion for its characters, this is Roth's masterpiece."
+          },
+          {
+              "title": "Interperter of Maladies",
+              "author": "Jhumpa Lahiri",
+              "year_published": 1990,
+              "desc": "Mr. Kapasi, the protagonist of Jhumpa Lahiri's title story, would certainly have his work cut out for him if he were forced to interpret the maladies of all the characters in this eloquent debut collection. Take, for example, Shoba and Shukumar, the young couple in 'A Temporary Matter' whose marriage is crumbling in the wake of a stillborn child. Or Miranda in 'Sexy,' who is involved in a hopeless affair with a married man. But Mr. Kapasi has problems enough of his own; in addition to his regular job working as an interpreter for a doctor who does not speak his patients' language, he also drives tourists to local sites of interest. His fare on this particular day is Mr. and Mrs. Das--first-generation Americans of Indian descent--and their children. During the course of the afternoon, Mr. Kapasi becomes enamored of Mrs. Das and then becomes her unwilling confidant when she reads too much into his profession. 'I told you because of your talents,' she informs him after divulging a startling secret."
+          },
+          {
+              "title": "On Writing",
+              "author": "Stephen King",
+              "year_published": 1990,
+              "desc": "'Long live the King' hailed Entertainment Weekly upon the publication of Stephen King's On Writing. Part memoir, part master class by one of the bestselling authors of all time, this superb volume is a revealing and practical view of the writer's craft, comprising the basic tools of the trade every writer must have. King's advice is grounded in his vivid memories from childhood through his emergence as a writer, from his struggling early career to his widely reported near-fatal accident in 1999—and how the inextricable link between writing and living spurred his recovery. Brilliantly structured, friendly and inspiring, On Writing will empower and entertain everyone who reads it—fans, writers, and anyone who loves a great story well told."
+          },
+          {
+              "title": "Speak",
+              "author": "Laurie Halse Anderson",
+              "year_published": 1990,
+              "desc": "'Speak up for yourself--we want to know what you have to say.' From the first moment of her freshman year at Merryweather High, Melinda knows this is a big fat lie, part of the nonsense of high school. She is friendless, outcast, because she busted an end-of-summer party by calling the cops, so now nobody will talk to her, let alone listen to her. As time passes, she becomes increasingly isolated and practically stops talking altogether. Only her art class offers any solace, and it is through her work on an art project that she is finally able to face what really happened at that terrible party: she was raped by an upperclassman, a guy who still attends Merryweather and is still a threat to her. Her healing process has just begun when she has another violent encounter with him. But this time Melinda fights back, refuses to be silent, and thereby achieves a measure of vindication. In Laurie Halse Anderson's powerful novel, an utterly believable heroine with a bitterly ironic voice delivers a blow to the hypocritical world of high school. She speaks for many a disenfranchised teenager while demonstrating the importance of speaking up for oneself."
+          },
+          
+          {
+              "title": "The Blind Assassin",
+              "author": "Margaret Atwood",
+              "year_published": 2000,
+              "desc": "'Ten days after the war ended, my sister Laura drove a car off a bridge'\n\nMore than fifty years on, Iris Chase is remembering Laura's mysterious death. And so begins an extraordinary and compelling story of two sisters and their secrets. Set against a panoramic backdrop of twentieth-century history, The Blind Assassin is an epic tale of memory, intrigue and betrayal..."
+          },
+          {
+              "title": "Old Filth",
+              "author": "Jane Gardam",
+              "year_published": 2000,
+              "desc": "Sir Edward Feathers has had a brilliant career, from his early days as a lawyer in Southeast Asia, where he earned the nickname Old Filth (FILTH being an acronym for Failed In London Try Hong Kong) to his final working days as a respected judge at the English bar. Yet through it all he has carried with him the wounds of a difficult and emotionally hollow childhood. Now an eighty-year-old widower living in comfortable seclusion in Dorset, Feathers is finally free from the regimen of work and the sentimental scaffolding that has sustained him throughout his life. He slips back into the past with ever mounting frequency and intensity, and on the tide of these vivid, lyrical musings, Feathers approaches a reckoning with his own history. Not all the old filth, it seems, can be cleaned away."
+          },
+          {
+              "title": "Collected Poems",
+              "author": "Jane Kenyon",
+              "year_published": 2000,
+              "desc": "Jane Kenyon is considered one of America's best contemporary poets. Her previous collection, Otherwise: New & Selected Poems, published just after her death in 1995, has been a favorite among readers, with over 60,000 copies in print, and is a contemporary classic.\n\nNow at the ten-year anniversary of her death, Kenyon's Collected Poems assembles all of her published poetry in one book. Included here are the complete poems found in her four previous volumes--From Room to Room, The Boat of Quiet Hours, Let Evening Come, and Constance--as well as the poems that appear in her posthumous volumes Otherwise and A Hundred White Daffodils, four poems never before published in book form, and her translations in Twenty Poems of Anna Akhmatova."
+          },
+          {
+              "title": "Consider the Lobster and Other Essays",
+              "author": "David Foster Wallace",
+              "year_published": 2000,
+              "desc": "Do lobsters feel pain? Did Franz Kafka have a funny bone? What is John Updike's deal, anyway? And what happens when adult video starlets meet their fans in person? David Foster Wallace answers these questions and more in essays that are also enthralling narrative adventures. Whether covering the three-ring circus of a vicious presidential race, plunging into the wars between dictionary writers, or confronting the World's Largest Lobster Cooker at the annual Maine Lobster Festival, Wallace projects a quality of thought that is uniquely his and a voice as powerful and distinct as any in American letters."
+          },
+          {
+              "title": "Never Let Me Go",
+              "author": "Kazuo Ishiguro",
+              "year_published": 2000,
+              "desc": "As children, Kathy, Ruth, and Tommy were students at Hailsham, an exclusive boarding school secluded in the English countryside. It was a place of mercurial cliques and mysterious rules where teachers were constantly reminding their charges of how special they were. Now, years later, Kathy is a young woman. Ruth and Tommy have reentered her life, and for the first time she is beginning to look back at their shared past and understand just what it is that makes them special—and how that gift will shape the rest of their time together."
+          },
+          {
+              "title": "Team of Rivals",
+              "author": "Doris Kearns Goodwin",
+              "year_published": 2000,
+              "desc": "The life and times of Abraham Lincoln have been analyzed and dissected in countless books. Do we need another Lincoln biography? In Team of Rivals, esteemed historian Doris Kearns Goodwin proves that we do. Though she can't help but cover some familiar territory, her perspective is focused enough to offer fresh insights into Lincoln's leadership style and his deep understanding of human behavior and motivation. Goodwin makes the case for Lincoln's political genius by examining his relationships with three men he selected for his cabinet, all of whom were opponents for the Republican nomination in 1860: William H. Seward, Salmon P. Chase, and Edward Bates. These men, all accomplished, nationally known, and presidential, originally disdained Lincoln for his backwoods upbringing and lack of experience, and were shocked and humiliated at losing to this relatively obscure Illinois lawyer. Yet Lincoln not only convinced them to join his administration--Seward as secretary of state, Chase as secretary of the treasury, and Bates as attorney general--he ultimately gained their admiration and respect as well. How he soothed egos, turned rivals into allies, and dealt with many challenges to his leadership, all for the sake of the greater good, is largely what Goodwin's fine book is about. Had he not possessed the wisdom and confidence to select and work with the best people, she argues, he could not have led the nation through one of its darkest periods."
+          },
+          {
+              "title": "We Tell Ourselves Stories in Order to Live",
+              "author": "Joan Didion",
+              "year_published": 2000,
+              "desc": "Joan Didion’s incomparable and distinctive essays and journalism are admired for their acute, incisive observations and their spare, elegant style. Now the seven books of nonfiction that appeared between 1968 and 2003 have been brought together into one thrilling collection.\n\nSlouching Towards Bethlehem captures the counterculture of the sixties, its mood and lifestyle, as symbolized by California, Joan Baez, Haight-Ashbury. The White Album covers the revolutionary politics and the “contemporary wasteland” of the late sixties and early seventies, in pieces on the Manson family, the Black Panthers, and Hollywood. Salvador is a riveting look at the social and political landscape of civil war. Miami exposes the secret role this largely Latin city played in the Cold War, from the Bay of Pigs through Watergate. In After Henry Didion reports on the Reagans, Patty Hearst, and the Central Park jogger case. The eight essays in Political Fictions–on censorship in the media, Gingrich, Clinton, Starr, and “compassionate conservatism,” among others–show us how we got to the political scene of today. And in Where I Was From Didion shows that California was never the land of the golden dream."
+          },
+          {
+              "title": "What is the What",
+              "author": "Dave Eggers",
+              "year_published": 2000,
+              "desc": "In a heartrending and astonishing novel, Eggers illuminates the history of the civil war in Sudan through the eyes of Valentino Achak Deng, a refugee now living in the United States. We follow his life as he's driven from his home as a boy and walks, with thousands of orphans, to Ethiopia, where he finds safety — for a time. Valentino's travels, truly Biblical in scope, bring him in contact with government soldiers, janjaweed-like militias, liberation rebels, hyenas and lions, disease and starvation — and a string of unexpected romances. Ultimately, Valentino finds safety in Kenya and, just after the millennium, is finally resettled in the United States, from where this novel is narrated. In this book, written with expansive humanity and surprising humor, we come to understand the nature of the conflicts in Sudan, the refugee experience in America, the dreams of the Dinka people, and the challenge one indomitable man faces in a world collapsing around him."
+          },
+          {
+              "title": "Brother, I'm Dying",
+              "author": "Edwidge Danticat",
+              "year_published": 2000,
+              "desc": "From the age of four, Edwidge Danticat came to think of her uncle Joseph, a charismatic pastor, as her 'second father,' when she was placed in his care after her parents left Haiti for a better life in America. Listening to his sermons, sharing coconut-flavored ices on their walks through town, roaming through the house that held together many members of a colorful extended family, Edwidge grew profoundly attached to Joseph. He was the man who 'knew all the verses for love.'"
+          },
+          {
+              "title": "The Absolutely True Diary of a Part-Time Indian",
+              "author": "Sherman Alexie",
+              "year_published": 2000,
+              "desc": "Heartbreaking, funny, and beautifully written, The Absolutely True Diary of a Part-Time Indian, which is based on the author's own experiences, coupled with poignant drawings by Ellen Forney that reflect the character's art, chronicles the contemporary adolescence of one Native American boy as he attempts to break away from the life he was destined to live."
+          },
+          {
+              "title": "The Brief Wonderous Life of Oscar Wao",
+              "author": "Junot Díaz",
+              "year_published": 2000,
+              "desc": "Things have never been easy for Oscar, a sweet but disastrously overweight ghetto nerd, a New Jersey romantic who dreams of becoming the Dominican J.R.R. Tolkien and, most of all, of finding love. But he may never get what he wants, thanks to the fukú — the ancient curse that has haunted Oscar's family for generations, dooming them to prison, torture, tragic accidents, and, above all, ill-starred love. Oscar, still dreaming of his first kiss, is only its most recent victim - until the fateful summer that he decides to be its last.\n\nWith dazzling energy and insight, Junot Díaz immerses us in the uproarious lives of our hero Oscar, his runaway sister Lola, and their ferocious beauty-queen mother Belicia, and in the epic journey from Santo Domingo to Washington Heights to New Jersey's Bergenline and back again. Rendered with uncommon warmth and humor, The Brief Wondrous Life of Oscar Wao presents an astonishing vision of the contemporary American experience and the endless human capacity to persevere - and to risk it all - in the name of love."
+          },
+          {
+              "title": "The Lion and the Mouse",
+              "author": "Jerry Pinkney",
+              "year_published": 2000,
+              "desc": "In award-winning artist Jerry Pinkney's wordless adaptation of one of Aesop's most beloved fables, an unlikely pair learn that no act of kindness is ever wasted. After a ferocious lion spares a cowering mouse that he'd planned to eat, the mouse later comes to his rescue, freeing him from a poacher's trap. With vivid depictions of the landscape of the African Serengeti and expressively-drawn characters, Pinkney makes this a truly special retelling, and his stunning pictures speak volumes."
+          },
+          {
+              "title": "Wolf Hall",
+              "author": "Hilary Mantel",
+              "year_published": 2000,
+              "desc": "England in the 1520s is a heartbeat from disaster. If the king dies without a male heir, the country could be destroyed by civil war. Henry VIII wants to annul his marriage of twenty years and marry Anne Boleyn. The pope and most of Europe opposes him. Into this impasse steps Thomas Cromwell: a wholly original man, a charmer and a bully, both idealist and opportunist, astute in reading people, and implacable in his ambition. But Henry is volatile: one day tender, one day murderous. Cromwell helps him break the opposition, but what will be the price of his triumph?"
+          },
+          
+          {
+              "title": "New Selected Stories",
+              "author": "Alice Munro",
+              "year_published": 2010,
+              "desc": "Spanning her last five collections and bringing together her finest work from the past fifteen years, this new selection of Alice Munro's stories infuses everyday lives with a wealth of nuance and insight.\n\nWritten with emotion and empathy, beautifully observed and remarkably crafted, these stories are nothing short of perfection. A masterclass in the genre, from an author who deservedly lays claim to being one of the 'major fiction writers of our time'."
+          },
+          {
+              "title": "Collected Poems",
+              "author": "Jack Gilbert",
+              "year_published": 2010,
+              "desc": "Gathered in this volume readers will find more than fifty years of poems by the incomparable Jack Gilbert, from his Yale Younger Poets prize-winning volume to glorious late poems, including a section of previously uncollected work."
+          },
+          {
+              "title": "The Partick Melrose Novels",
+              "author": "Edward St. Aubyn",
+              "year_published": 2010,
+              "desc": "For more than twenty years, acclaimed author Edward St. Aubyn has chronicled the life of Patrick Melrose, painting an extraordinary portrait of the beleaguered and self-loathing world of privilege. This single volume collects the first four novels—Never Mind, Bad News, Some Hope, and Mother’s Milk, a Man Booker finalist—to coincide with the publication of At Last, the final installment of this unique novel cycle."
+          },
+          {
+              "title": "My Name is Lucy Barton",
+              "author": "Elizabeth Strout",
+              "year_published": 2010,
+              "desc": "A new book by Pulitzer Prize winner Elizabeth Strout is cause for celebration. Her bestselling novels, including Olive Kitteridge and The Burgess Boys, have illuminated our most tender relationships. Now, in My Name Is Lucy Barton, this extraordinary writer shows how a simple hospital visit becomes a portal to the most tender relationship of all—the one between mother and daughter.\n\nLucy Barton is recovering slowly from what should have been a simple operation. Her mother, to whom she hasn’t spoken for many years, comes to see her. Gentle gossip about people from Lucy’s childhood in Amgash, Illinois, seems to reconnect them, but just below the surface lie the tension and longing that have informed every aspect of Lucy’s life: her escape from her troubled family, her desire to become a writer, her marriage, her love for her two daughters. Knitting this powerful narrative together is the brilliant storytelling voice of Lucy herself: keenly observant, deeply human, and truly unforgettable. "
+          },
+          {
+              "title": "When Breath Becomes Air",
+              "author": "Paul Kalanithi",
+              "year_published": 2010,
+              "desc": "At the age of thirty-six, on the verge of completing a decade's worth of training as a neurosurgeon, Paul Kalanithi was diagnosed with stage IV lung cancer. One day he was a doctor making a living treating the dying, and the next he was a patient struggling to live. Just like that, the future he and his wife had imagined evaporated. When Breath Becomes Air, which features a Foreword by Dr. Abraham Verghese and an Epilogue by Kalanithi's wife, Lucy, chronicles Kalanithi's transformation from a naïve medical student 'possessed,' as he wrote, 'by the question of what, given that all organisms die, makes a virtuous and meaningful life' into a young neurosurgeon at Stanford, guiding patients toward a deeper understanding of death and illness, and finally into a patient and a new father to a baby girl, confronting his own mortality."
+          },
+          {
+              "title": "Brown Girl Dreaming",
+              "author": "Jacqueline Woodson",
+              "year_published": 2010,
+              "desc": "Raised in South Carolina and New York, Woodson always felt halfway home in each place. In vivid poems, she shares what it was like to grow up as an African American in the 1960s and 1970s, living with the remnants of Jim Crow and her growing awareness of the Civil Rights movement. Touching and powerful, each poem is both accessible and emotionally charged, each line a glimpse into a child’s soul as she searches for her place in the world. Woodson’s eloquent poetry also reflects the joy of finding her voice through writing stories, despite the fact that she struggled with reading as a child. Her love of stories inspired her and stayed with her, creating the first sparks of the gifted writer she was to become."
+          }
+    ]
+}
