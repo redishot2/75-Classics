@@ -16,6 +16,8 @@
 		FA41D8651D244001006FAD32 /* ListBooksVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41D8641D244001006FAD32 /* ListBooksVC.swift */; };
 		FA41D8671D24401C006FAD32 /* BookProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41D8661D24401C006FAD32 /* BookProfileVC.swift */; };
 		FA41D8691D24403F006FAD32 /* bookList.json in Resources */ = {isa = PBXBuildFile; fileRef = FA41D8681D24403F006FAD32 /* bookList.json */; };
+		FADFAAE01D53C2590019364C /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADFAADF1D53C2590019364C /* PageViewController.swift */; };
+		FADFAAE21D53D1FC0019364C /* DotsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADFAAE11D53D1FC0019364C /* DotsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		FA41D8641D244001006FAD32 /* ListBooksVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListBooksVC.swift; sourceTree = "<group>"; };
 		FA41D8661D24401C006FAD32 /* BookProfileVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookProfileVC.swift; sourceTree = "<group>"; };
 		FA41D8681D24403F006FAD32 /* bookList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bookList.json; sourceTree = "<group>"; };
+		FADFAADF1D53C2590019364C /* PageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		FADFAAE11D53D1FC0019364C /* DotsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DotsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 				FA41D8621D243FF2006FAD32 /* ListYearVC.swift */,
 				FA41D8641D244001006FAD32 /* ListBooksVC.swift */,
 				FA41D8661D24401C006FAD32 /* BookProfileVC.swift */,
+				FADFAADF1D53C2590019364C /* PageViewController.swift */,
+				FADFAAE11D53D1FC0019364C /* DotsViewController.swift */,
 				FA41D8681D24403F006FAD32 /* bookList.json */,
 				FA41D8541D243D40006FAD32 /* Main.storyboard */,
 				FA41D8571D243D40006FAD32 /* Assets.xcassets */,
@@ -152,8 +158,10 @@
 				FA41D8671D24401C006FAD32 /* BookProfileVC.swift in Sources */,
 				FA41D8631D243FF2006FAD32 /* ListYearVC.swift in Sources */,
 				FA41D8531D243D40006FAD32 /* CurrentReadingVC.swift in Sources */,
+				FADFAAE01D53C2590019364C /* PageViewController.swift in Sources */,
 				FA41D8511D243D40006FAD32 /* AppDelegate.swift in Sources */,
 				FA41D8651D244001006FAD32 /* ListBooksVC.swift in Sources */,
+				FADFAAE21D53D1FC0019364C /* DotsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

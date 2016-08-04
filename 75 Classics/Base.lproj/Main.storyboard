@@ -44,7 +44,7 @@
                                     <color key="titleShadowColor" red="0.85098039219999999" green="0.85098039219999999" blue="0.85098039219999999" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="h6y-xb-JO6" kind="show" id="XBB-ig-erU"/>
+                                    <segue destination="F3t-bK-NbL" kind="show" id="Z84-ka-aJ1"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -242,9 +242,6 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <connections>
-                        <segue destination="h6y-xb-JO6" kind="show" identifier="gotoBookProfile" id="GQc-Gt-hZB"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8KL-yV-tjt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -253,7 +250,7 @@
         <!--Book ProfileVC-->
         <scene sceneID="fJT-aZ-HfZ">
             <objects>
-                <viewController id="h6y-xb-JO6" customClass="BookProfileVC" customModule="_5_Classics" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="BookProfile1" id="h6y-xb-JO6" customClass="BookProfileVC" customModule="_5_Classics" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="03f-p0-glU"/>
                         <viewControllerLayoutGuide type="bottom" id="cuG-vx-9JI"/>
@@ -262,7 +259,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4tT-us-ajo">
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4tT-us-ajo">
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="desc" textAlignment="justified" lineBreakMode="tailTruncation" numberOfLines="14" baselineAdjustment="alignBaselines" minimumFontSize="8" translatesAutoresizingMaskIntoConstraints="NO" id="Dur-5f-vPg">
@@ -363,7 +360,7 @@
                                 <rect key="frame" x="306" y="567" width="18" height="18"/>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.14901960780000001" green="0.14901960780000001" blue="0.14901960780000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.75919047100000003" green="0.36265086829999998" blue="0.56578947369999999" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="KQO-LT-7bP" firstAttribute="height" secondItem="pka-bw-oRg" secondAttribute="height" id="0ap-Vp-ex9"/>
                             <constraint firstAttribute="leadingMargin" secondItem="1JK-87-fCt" secondAttribute="leading" id="5lQ-lP-EF9"/>
@@ -396,11 +393,70 @@
                         <outlet property="pageIndicator1" destination="rmK-Jz-GR6" id="Hwa-F7-5Jc"/>
                         <outlet property="pageIndicator2" destination="q76-Xl-PQ1" id="dNq-cc-Rev"/>
                         <outlet property="statusLabel" destination="0hQ-bj-y21" id="wii-OV-bcf"/>
+                        <outlet property="titleLabel" destination="qyE-Ee-WgV" id="Oat-Gw-vCH"/>
                         <outlet property="yearLabel" destination="1QY-AE-Kqo" id="Ai2-3D-DdU"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UF3-e6-RKF" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="3sL-Mh-7Ze" userLabel="Exit" sceneMemberID="exit"/>
+            </objects>
+            <point key="canvasLocation" x="182" y="2809"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="hbe-XG-rQ5">
+            <objects>
+                <viewController storyboardIdentifier="BookProfile2" id="HAj-df-RRc" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="KUv-Qs-yOk"/>
+                        <viewControllerLayoutGuide type="bottom" id="2u4-Te-NEl"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kI5-5Q-o3E">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.73725490199999999" green="0.84705882349999995" blue="0.78823529410000004" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2HL-Re-VGx" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="864" y="2809"/>
+        </scene>
+        <!--Dots View Controller-->
+        <scene sceneID="bRg-j6-IBv">
+            <objects>
+                <viewController id="F3t-bK-NbL" customClass="DotsViewController" customModule="_5_Classics" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="llk-sn-rZw"/>
+                        <viewControllerLayoutGuide type="bottom" id="e5l-SG-irh"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="QkL-Te-tEw">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vZ4-5J-asK">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <connections>
+                                    <segue destination="iv7-CS-ZoF" kind="embed" id="LAp-N5-kHN"/>
+                                </connections>
+                            </containerView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="vZ4-5J-asK" firstAttribute="centerX" secondItem="QkL-Te-tEw" secondAttribute="centerX" id="16m-Vl-EGn"/>
+                            <constraint firstItem="vZ4-5J-asK" firstAttribute="height" secondItem="QkL-Te-tEw" secondAttribute="height" id="1RA-Rs-jjT"/>
+                            <constraint firstItem="vZ4-5J-asK" firstAttribute="width" secondItem="QkL-Te-tEw" secondAttribute="width" id="2vs-EL-LtE"/>
+                            <constraint firstItem="vZ4-5J-asK" firstAttribute="centerY" secondItem="QkL-Te-tEw" secondAttribute="centerY" id="Rgm-PK-tml"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vCl-CD-HmV" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="522" y="1344"/>
+        </scene>
+        <!--Page View Controller-->
+        <scene sceneID="586-7u-irb">
+            <objects>
+                <pageViewController autoresizesArchivedViewToFullSize="NO" transitionStyle="pageCurl" navigationOrientation="horizontal" spineLocation="min" id="iv7-CS-ZoF" customClass="PageViewController" customModule="_5_Classics" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zHl-EY-5BY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="522" y="2117"/>
         </scene>
@@ -409,7 +465,4 @@
         <image name="01" width="510" height="680"/>
         <image name="ui_circle" width="420" height="420"/>
     </resources>
-    <inferredMetricsTieBreakers>
-        <segue reference="GQc-Gt-hZB"/>
-    </inferredMetricsTieBreakers>
 </document>
