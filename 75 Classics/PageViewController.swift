@@ -29,8 +29,6 @@ class PageViewController: UIPageViewController {
         tutorialDelegate?.tutorialPageViewController(self, didUpdatePageCount: orderedViewControllers.count)
     }
     
-    
-    
     private func newPageViewController(cvIndex: Int) -> UIViewController {
         
         let cvIndexNSNumber = cvIndex as NSNumber
